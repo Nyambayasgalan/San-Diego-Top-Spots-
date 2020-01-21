@@ -1,0 +1,16 @@
+body {
+    background-color: white;
+}
+
+
+table {
+    width : 500px;
+}
+
+table td {
+    border : solid blue 1px;
+}
+
+tr {
+    border : solid black 1px;
+}
